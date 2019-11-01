@@ -1,0 +1,5 @@
+python-dotenv
+flask
+pillow
+msrest
+azure-cognitiveservices-vision-face
